@@ -1,0 +1,27 @@
+﻿"Wall Thickness"= 5
+"Fabric Tolerance"= 1.5
+
+"Mouse X"= 98.96
+"Mouse Y"= 63.25
+"Mouse Z"= 33.90
+
+"Female Fit Wall Thickness"= 2
+"Female Fit Wall Height"= 7
+"Female Fit Internal Chamfer"= 3
+
+"Male Fit Wall Thickness"= "Female Fit Wall Thickness" - "Male to Female Fit Horizontal Tolerance"
+"Male Fit External Chamfer"= "Female Fit Internal Chamfer"
+
+"Male to Female Fit Horizontal Tolerance"= 0.05
+
+"Screw Head Diameter"= 8.6
+"Screw Head Height"= 3.6
+"Screw Tail Diameter"= 4.9
+"Screw Tail Length"= 16
+"Screw Clearance to Corner"= 1.4
+
+"Magnet Diameter"= 10
+"Magnet Height"= 3.1
+"Magnet Clearance to Corner"= 1
+
+"Bottom Mouse Negative Depth"= 12
