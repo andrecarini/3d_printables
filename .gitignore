@@ -1,6 +1,3 @@
-*
-!*/
-!.gitignore
-!*.SLDASM
-!*.SLDPRT
-!*.txt
+*.gcode
+*.3mf
+*.stl
