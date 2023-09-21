@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 1700.7883 1889.7638"
+   width="1700.7883"
+   height="1889.7638"
+   version="1.1"
+   id="svg867"
+   sodipodi:docname="mousepad.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview869"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="0.25764063"
+     inkscape:cx="665.65587"
+     inkscape:cy="818.9702"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g865"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <desc
+     id="desc824">mousepad.DXF - scale = 1.0, origin = (0.0, 0.0), method = file</desc>
+  <defs
+     id="defs839" />
+  <g
+     inkscape:groupmode="layer"
+     inkscape:label="0"
+     id="g865"
+     transform="translate(850.39419,-177.63779)">
+    <path
+       d="m -755.90551,1783.937 a 188.97638,188.97638 0 0 0 188.97638,188.9764"
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path841" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -566.929,1972.91 H 566.929"
+       id="path843" />
+    <path
+       d="M 566.92913,1972.9134 A 188.97638,188.97638 0 0 0 755.90551,1783.937"
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path845" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 755.906,1783.94 V 461.102"
+       id="path847" />
+    <path
+       d="M 755.90551,461.10236 A 188.97638,188.97638 0 0 0 566.92913,272.12598"
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path849" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M 566.929,272.126 H -566.929"
+       id="path851" />
+    <path
+       d="M -566.92913,272.12598 A 188.97638,188.97638 0 0 0 -755.90551,461.10236"
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path853" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:188.976;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none"
+       d="M -755.906,461.102 V 1783.94"
+       id="path855" />
+  </g>
+</svg>
